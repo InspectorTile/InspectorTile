@@ -1,16 +1,19 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2CF774&width=435&lines=Welcome+to+my+corner)](https://git.io/typing-svg)
 
-<!--
-**InspectorTile/InspectorTile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on infrastructure, automation, and reliability.
 
-Here are some ideas to get you started:
+### What I work with
+- 🐧 Linux (daily driver)
+- 🐍 Python for automation and tooling  
+- 🐳 Docker & containerization  
+- 🔧 CI/CD and deployment automation  
+- 🌐 APIs and backend services  
+- 📡 Monitoring, logging, and observability  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Infrastructure engineering  
+- System automation  
+- Performance & reliability  
+- Low-level tech and networking  
+
+Open to learning, experimenting, and building solid engineering solutions.
