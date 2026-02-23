@@ -6,6 +6,9 @@ I work with Linux, containers, and automation, using Python to build APIs and in
 
 ---
 
+### What I work with:
+git (github, gitlab), linux, docker, k8s, helm, grafana, promiteus, terraform, ansible, python, bash...
+
 ### 📑 Projects:
 
 - [news-pipe-bot](https://github.com/InspectorTile/news-pipe-bot) - telegram news parser bot. It collects articles from websites, processes them with AI, and publishes them to a channel (work in progress)
